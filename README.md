@@ -27,7 +27,7 @@ tenho 15 anos, moro em são josé das palmeiras/pr e sou aluno(a) da disciplina 
 <p align="left"> estou estudando HTML5, CSS3 E JAVASCRIPT </p>
 
 </br>
-voce pode falar comigo pelo [instagram] (https://www.intagram.com/Geocani Teixeira aqui) ou pelo [twitter] 
+voce pode falar comigo pelo [instagram] (https://www.intagram.com/Geovani Teixeira aqui) ou pelo [twitter] 
 (https://twitter.com/seu uurario aqui) e pode conhecer meus projetos já deenvolvido, estão disponivei aqui nos repositorios.
 
 </br>
